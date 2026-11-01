@@ -1,10 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 
-## About Me
+### About Me
 
 My name is Yijie Xu. I am a PhD student at Tsinghua University and I love quantum physics and machine learning.
 
-## Github Contributions
+### Github Contributions
 
 <picture>
   <source
